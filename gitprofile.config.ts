@@ -67,7 +67,7 @@ const CONFIG = {
       ],
     },
   },
-  seo: { title: 'AER', description: 'Backend Developer', imageURL: 'https://avatars.githubusercontent.com/u/100786249?v=4' },
+  seo: { title: 'Andrea Ella Remoreras', description: 'Backend Developer', imageURL: 'https://avatars.githubusercontent.com/u/100786249?v=4' },
   social: {
     linkedin: 'andrea-ella-remoreras-759a051b9',
     dev: 'wowser20',
