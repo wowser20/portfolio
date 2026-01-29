@@ -106,11 +106,17 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      name: 'MTA: Introduction to Programming Using Java - Certified 2020',
+      body: 'Earners of the MTA: Introduction to Programming Using Java validates the skills and knowledge to write, debug and maintain well-formed, well documented Java code. The MTA program provides an appropriate entry point to a future career in technology.',
+      year: 'January 2020',
+      link: 'https://www.credly.com/badges/e8bf15a5-3190-412a-98c1-3d40ecb08efc?source=linked_in_profile',
     },
+    {
+      name: 'IT Specialist - Databases',
+      body: 'Earners of this badge demonstrate foundational knowledge of how to design and query relational databases, such as MySQL, Microsoft SQL Server, or Oracle.',
+      year: 'July 2022',
+      link: 'https://www.credly.com/badges/235e3cc1-3ccc-458b-865b-9ed791b61248?source=linked_in_profile',
+    }
   ],
   educations: [
     {
@@ -122,13 +128,13 @@ const CONFIG = {
   ],
   publications: [
     {
-      title: 'Publication Title',
-      conferenceName: 'Conference Name',
+      title: 'Applying Batch Normalization and Dropout for CNN on Dermoscopic Images for Skin Cancer Classification',
+      conferenceName: 'Undergraduate Thesis',
       journalName: '',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
+      authors: 'Ma. Hannah Budiongan, Andrea Ella Remoreras, Tom James Yap',
+      link: 'https://onlineservices.ipophil.gov.ph/CopyrightSearch/CR_Registrations03smry.asp?so1_CRRegNo=LIKE&sv1_CRRegNo=2023-06151-A&so1_CCRIssuanceDate=%3E%3D&sv1_CCRIssuanceDate=&so2_CCRIssuanceDate=%3C%3D&sv2_CCRIssuanceDate=&so1_Title=LIKE&sv1_Title=&so1_CRHolder=LIKE&sv1_CRHolder=&so1_CRClass=LIKE&sv1_CRClass=&Submit=SEARCH',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        'Improvised the CNN model for skin cancer classification and evaluated it with existing CNN model.',
     },
   ],
   googleAnalytics: {
@@ -192,15 +198,10 @@ const CONFIG = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
-      target="_blank"
-      rel="noreferrer"
-    >GitProfile</a> 
-    and <a class="text-primary" href="https://github.com/wowser20" 
+  footer: `Made with <a class="text-primary" href="https://github.com/wowser20" 
     target="_blank"
     rel="noreferrer"
-    >GitProfile</a>
+    >wowser20</a>
     ❤️`,
 
   enablePWA: true,
