@@ -198,11 +198,10 @@ const CONFIG = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `Made with <a class="text-primary" href="https://github.com/wowser20" 
+  footer: `Made with ❤️ <a class="text-primary" href="https://github.com/wowser20" 
     target="_blank"
     rel="noreferrer"
-    >wowser20</a>
-    ❤️`,
+    >wowser20</a>`,
 
   enablePWA: true,
 };
