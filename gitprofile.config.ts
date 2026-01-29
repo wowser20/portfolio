@@ -84,7 +84,7 @@ const CONFIG = {
     'Docker',
     'Go',
     'MySQL',
-    'JavaScript',,
+    'JavaScript',
     'CSS',
     'Java',
   ],
