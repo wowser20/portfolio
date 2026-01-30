@@ -35,7 +35,7 @@ const CONFIG = {
         {
           title: 'Forward Proxy Server',
           description:
-          'A simple forward proxy server for securing HTTP requests.'+
+          'A simple forward proxy server for securing HTTP requests. '+
           'This is a personal project I\'ve developed to enhance my understanding in CLEAN architecture and REST API.',
           link: 'https://github.com/wowser20/go-rest-proxy',
         },
@@ -76,7 +76,7 @@ const CONFIG = {
       ],
     },
   },
-  seo: { title: 'Andrea Dev', description: 'Backend Developer', imageURL: 'https://avatars.githubusercontent.com/u/100786249?v=4' },
+  seo: { title: 'Andrea Dev Portfolio', description: 'Backend Developer', imageURL: 'https://avatars.githubusercontent.com/u/100786249?v=4' },
   social: {
     linkedin: 'andrea-ella-remoreras-759a051b9',
     dev: 'wowser20',
