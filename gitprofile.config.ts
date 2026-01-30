@@ -81,7 +81,6 @@ const CONFIG = {
     linkedin: 'andrea-ella-remoreras-759a051b9',
     dev: 'wowser20',
     website: 'https://wowser20.github.io/portfolio',
-    phone: '09070841101',
     email: 'ae.remoreras.dev@gmail.com',
   },
   resume: {
