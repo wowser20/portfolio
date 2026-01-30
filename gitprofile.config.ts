@@ -76,7 +76,7 @@ const CONFIG = {
       ],
     },
   },
-  seo: { title: 'Andrea Dev Portfolio', description: 'Backend Developer', imageURL: 'https://avatars.githubusercontent.com/u/100786249?v=4' },
+  seo: { title: 'Andrea Ella Remoreras | Software Engineer', description: 'Backend Developer', imageURL: 'https://avatars.githubusercontent.com/u/100786249?v=4' },
   social: {
     linkedin: 'andrea-ella-remoreras-759a051b9',
     dev: 'wowser20',
@@ -206,10 +206,10 @@ const CONFIG = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `Made with ❤️ <a class="text-primary" href="https://github.com/wowser20" 
+  footer: `Interested in Working Together?  <a class="text-primary" href="mailto:ae.remoreras.dev@gmail.com" 
     target="_blank"
     rel="noreferrer"
-    >wowser20</a>`,
+    >Contact Me</a>`,
 
   enablePWA: true,
 };
