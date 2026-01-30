@@ -33,51 +33,60 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Forward Proxy Server using Go',
+          title: 'Forward Proxy Server',
           description:
-            'Simple forward proxy server for securing HTTP requests.',
-          imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          'A simple forward proxy server for securing HTTP requests.'+
+          'This is a personal project I\'ve developed to enhance my understanding in CLEAN architecture and REST API.',
           link: 'https://github.com/wowser20/go-rest-proxy',
         },
         {
           title: 'Nuxie: An AI-Powered Chat Platform Using LLM & RAG Technology',
           description:
-            'Developed the APIs for user onboarding and connected the platform with various LLMs.',
+            'Worked on creating the APIs for user onboarding and connected the platform with thirdparty LLM providers.',
           imageUrl:
             'https://nuxify.tech/images/case-studies/nuxie/laptop-5.webp',
-          link: 'https://hello-nuxie.nuxify.tech/',
+          link: 'https://nuxify.tech/works/nuxie',
         },
         {
-          title: 'Certifika: A Multi-Chain NFT-Based Certificate Based Event Certification Platform',
+          title: 'Certifika: A Multi-Chain NFT-Based Certificate Based Event Certification Platform.',
           description:
-            'Developed the APIs and integrated smartcontracts.',
+            'Worked on creating the APIs and integrating the smartcontracts.',
           imageUrl:
             'https://nuxify.tech/images/case-studies/certifika/laptop-1.webp',
-          link: 'https://certifika.org/',
+          link: 'https://nuxify.tech/works/certifika',
         },
         {
           title: 'Decentralized and Instant Voting Platform Powered By Ethereum',
           description:
-            'Due to NDA agreement I could not disclose the actual name of the project. Developed the APIs and integrated smartcontract.',
+            'Due to NDA agreement I could not disclose the actual name of the project. '+
+            'Worked on drafting the database design, on implementing the APIs base on custom needs, and integrating the smartcontract.',
           imageUrl:
             'https://nuxify.tech/images/case-studies/decentralized-voting/laptop-2.webp',
           link: 'https://nuxify.tech/works/decentralized-voting',
+        },
+        {
+          title: 'A Multi-Chain Blockchain-Based Raffle Platform Using Chainlink',
+          description:
+            'Due to NDA agreement I could not disclose the actual name of the project. '+
+            'Worked on developing the APIs and integrating the smartcontracts.',
+          imageUrl:
+            'https://nuxify.tech/images/case-studies/blockchain-raffle/laptop-1.webp',
+          link: 'https://nuxify.tech/works/blockchain-raffle',
         }
       ],
     },
   },
-  seo: { title: 'Andrea Ella Remoreras', description: 'Backend Developer', imageURL: 'https://avatars.githubusercontent.com/u/100786249?v=4' },
+  seo: { title: 'Andrea Dev', description: 'Backend Developer', imageURL: 'https://avatars.githubusercontent.com/u/100786249?v=4' },
   social: {
     linkedin: 'andrea-ella-remoreras-759a051b9',
     dev: 'wowser20',
-    website: 'https://github.com/wowser20/portfolio',
+    website: 'https://wowser20.github.io/portfolio',
     phone: '09070841101',
     email: 'ae.remoreras.dev@gmail.com',
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1COUfomqVOtwJWuKuBvu-ngENlECqQLBH/view', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Git',
@@ -134,7 +143,7 @@ const CONFIG = {
       authors: 'Ma. Hannah Budiongan, Andrea Ella Remoreras, Tom James Yap',
       link: 'https://onlineservices.ipophil.gov.ph/CopyrightSearch/CR_Registrations03smry.asp?so1_CRRegNo=LIKE&sv1_CRRegNo=2023-06151-A&so1_CCRIssuanceDate=%3E%3D&sv1_CCRIssuanceDate=&so2_CCRIssuanceDate=%3C%3D&sv2_CCRIssuanceDate=&so1_Title=LIKE&sv1_Title=&so1_CRHolder=LIKE&sv1_CRHolder=&so1_CRClass=LIKE&sv1_CRClass=&Submit=SEARCH',
       description:
-        'Improvised the CNN model for skin cancer classification and evaluated it with existing CNN model.',
+        'Improvised the existing CNN model to reduce overfitting for skin cancer classification and evaluated the performance.',
     },
   ],
   googleAnalytics: {
