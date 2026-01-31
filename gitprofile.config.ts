@@ -42,6 +42,7 @@ const CONFIG = {
         {
           title: 'An AI-Powered Medical Software Platform Powered by RAG & LLM',
           description: 'Worked on creating the APIs for user onboarding and connected the platform with thirdparty LLM providers',
+          imageUrl:'https://nuxify.tech/images/case-studies/ai-med/laptop-2.webp', 
           link: 'https://nuxify.tech/works/ai-med',
         },
         {
