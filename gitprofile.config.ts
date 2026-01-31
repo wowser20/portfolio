@@ -37,12 +37,17 @@ const CONFIG = {
           description:
           'A simple forward proxy server for securing HTTP requests. '+
           'This is a personal project I\'ve developed to enhance my understanding in CLEAN architecture and REST API.',
-          link: 'https://github.com/wowser20/go-rest-proxy',
+          link: 'https://nuxify.tech/works/ai-med',
+        },
+        {
+          title: 'An AI-Powered Medical Software Platform Powered by RAG & LLM',
+          description: '',
+          link: 'Worked on creating the APIs for user onboarding and connected the platform with thirdparty LLM providers',
         },
         {
           title: 'Nuxie: An AI-Powered Chat Platform Using LLM & RAG Technology',
           description:
-            'Worked on creating the APIs for user onboarding and connected the platform with thirdparty LLM providers.',
+            'Worked on creating the APIs for connecting the platform with thirdparty LLM providers.',
           imageUrl:
             'https://nuxify.tech/images/case-studies/nuxie/laptop-5.webp',
           link: 'https://nuxify.tech/works/nuxie',
