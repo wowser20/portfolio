@@ -41,8 +41,8 @@ const CONFIG = {
         },
         {
           title: 'An AI-Powered Medical Software Platform Powered by RAG & LLM',
-          description: '',
-          link: 'Worked on creating the APIs for user onboarding and connected the platform with thirdparty LLM providers',
+          description: 'Worked on creating the APIs for user onboarding and connected the platform with thirdparty LLM providers',
+          link: 'https://nuxify.tech/works/ai-med',
         },
         {
           title: 'Nuxie: An AI-Powered Chat Platform Using LLM & RAG Technology',
