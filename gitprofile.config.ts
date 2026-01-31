@@ -37,7 +37,7 @@ const CONFIG = {
           description:
           'A simple forward proxy server for securing HTTP requests. '+
           'This is a personal project I\'ve developed to enhance my understanding in CLEAN architecture and REST API.',
-          link: 'https://nuxify.tech/works/ai-med',
+          link: 'https://github.com/wowser20/go-rest-proxy',
         },
         {
           title: 'An AI-Powered Medical Software Platform Powered by RAG & LLM',
