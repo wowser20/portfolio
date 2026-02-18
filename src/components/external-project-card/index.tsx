@@ -33,7 +33,7 @@ const ExternalProjectCard = ({
                       })}
                     </h2>
                     <div className="avatar w-full h-full">
-                      <div className="w-24 h-24 mask mask-squircle mx-auto">
+                      <div className="w-24 h-24 mask mask-squere mx-auto">
                         {skeleton({
                           widthCls: 'w-full',
                           heightCls: 'h-full',
@@ -99,7 +99,7 @@ const ExternalProjectCard = ({
                   </h2>
                   {item.imageUrl && (
                     <div className="avatar opacity-90">
-                      <div className="w-80 h-80 mask mask-squircle">
+                      <div className="w-70 h-70 mask mask-square">
                         <LazyImage
                           src={item.imageUrl}
                           alt={'thumbnail'}
