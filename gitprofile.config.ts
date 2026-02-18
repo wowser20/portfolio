@@ -43,7 +43,7 @@ const CONFIG = {
           title: 'An AI-Powered Medical Software Platform Powered by RAG & LLM',
           description: 'Worked on creating the APIs for user onboarding and connected the platform with thirdparty LLM providers',
           imageUrl:'https://nuxify.tech/images/case-studies/ai-med/laptop-2.webp', 
-          link: 'https://nuxify.tech/works/ai-med',
+          link: 'https://nuxify.tech/works/an-ai-powered-medical-software-platform-powered-by-rag-and-llm',
         },
         {
           title: 'Nuxie: An AI-Powered Chat Platform Using LLM & RAG Technology',
@@ -51,7 +51,7 @@ const CONFIG = {
             'Worked on creating the APIs for connecting the platform with thirdparty LLM providers.',
           imageUrl:
             'https://nuxify.tech/images/case-studies/nuxie/laptop-5.webp',
-          link: 'https://nuxify.tech/works/nuxie',
+          link: 'https://nuxify.tech/works/nuxie-an-ai-powered-chat-platform-using-llm-and-rag-technology',
         },
         {
           title: 'Certifika: A Multi-Chain NFT-Based Certificate Based Event Certification Platform.',
@@ -59,25 +59,34 @@ const CONFIG = {
             'Worked on creating the APIs and integrating the smartcontracts.',
           imageUrl:
             'https://nuxify.tech/images/case-studies/certifika/laptop-1.webp',
-          link: 'https://nuxify.tech/works/certifika',
+          link: 'https://nuxify.tech/works/certifika-a-multi-chain-nft-based-event-certification-platform',
         },
         {
           title: 'Decentralized and Instant Voting Platform Powered By Ethereum',
           description:
-            'Due to NDA agreement I could not disclose the actual name of the project. '+
-            'Worked on drafting the database design, on implementing the APIs base on custom needs, and integrating the smartcontract.',
+            'Worked on drafting the database design, on implementing the APIs base on custom needs, and integrating the smartcontract.'+
+            'Due to NDA agreement I could not disclose the actual name of the project.',
           imageUrl:
             'https://nuxify.tech/images/case-studies/decentralized-voting/laptop-2.webp',
-          link: 'https://nuxify.tech/works/decentralized-voting',
+          link: 'https://nuxify.tech/works/a-decentralized-instant-voting-platform-powered-by-ethereum',
         },
         {
           title: 'A Multi-Chain Blockchain-Based Raffle Platform Using Chainlink',
           description:
-            'Due to NDA agreement I could not disclose the actual name of the project. '+
-            'Worked on developing the APIs and integrating the smartcontracts.',
+            'Worked on developing the APIs and integrating the smartcontracts.'+
+            'Due to NDA agreement I could not disclose the actual name of the project.',
           imageUrl:
             'https://nuxify.tech/images/case-studies/blockchain-raffle/laptop-1.webp',
-          link: 'https://nuxify.tech/works/blockchain-raffle',
+          link: 'https://nuxify.tech/works/a-multi-chain-blockchain-based-raffle-platform-using-chainlink',
+        },
+        {
+          title: 'An Advanced ECG Analysis Platform Powered by AI',
+          description:
+            'Worked on developing the APIs for user onboarding and also for the onboarding questionnaires using Firebase.'+
+            'Due to NDA agreement I could not disclose the actual name of the project.',
+          imageUrl:
+            'https://nuxify.tech/images/case-studies/vitalitech/laptop-3.webp',
+          link: 'https://nuxify.tech/works/an-advanced-ecg-analysis-platform-powered-by-ai',
         }
       ],
     },
