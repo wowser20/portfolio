@@ -37,7 +37,7 @@ const CONFIG = {
           description:
           'A simple forward proxy server for securing HTTP requests. '+
           'This is a personal project I\'ve developed to enhance my understanding in CLEAN architecture and REST API.',
-          imageUrl:'https://aer-tech.org/Screenshot%202026-02-19%20at%209.01.48%20PM.png',
+          imageUrl:'https://aer-tech.org/RestProxy.webp',
           link: 'https://github.com/wowser20/go-rest-proxy',
         },
         {
