@@ -37,6 +37,7 @@ const CONFIG = {
           description:
           'A simple forward proxy server for securing HTTP requests. '+
           'This is a personal project I\'ve developed to enhance my understanding in CLEAN architecture and REST API.',
+          imageUrl:'https://aer-tech.org/Screenshot%202026-02-19%20at%209.01.48%20PM.png',
           link: 'https://github.com/wowser20/go-rest-proxy',
         },
         {
@@ -64,7 +65,7 @@ const CONFIG = {
         {
           title: 'Decentralized and Instant Voting Platform Powered By Ethereum',
           description:
-            'Worked on drafting the database design, on implementing the APIs base on custom needs, and integrating the smartcontract.'+
+            'Worked on drafting the database design, on implementing the APIs base on custom needs, and integrating the smartcontract. '+
             'Due to NDA agreement I could not disclose the actual name of the project.',
           imageUrl:
             'https://nuxify.tech/images/case-studies/decentralized-voting/laptop-2.webp',
@@ -73,7 +74,7 @@ const CONFIG = {
         {
           title: 'A Multi-Chain Blockchain-Based Raffle Platform Using Chainlink',
           description:
-            'Worked on developing the APIs and integrating the smartcontracts.'+
+            'Worked on developing the APIs and integrating the smartcontracts. '+
             'Due to NDA agreement I could not disclose the actual name of the project.',
           imageUrl:
             'https://nuxify.tech/images/case-studies/blockchain-raffle/laptop-1.webp',
@@ -82,7 +83,7 @@ const CONFIG = {
         {
           title: 'An Advanced ECG Analysis Platform Powered by AI',
           description:
-            'Worked on developing the APIs for user onboarding and also for the onboarding questionnaires using Firebase.'+
+            'Worked on developing the APIs for user onboarding and also for the onboarding questionnaires using Firebase. '+
             'Due to NDA agreement I could not disclose the actual name of the project.',
           imageUrl:
             'https://nuxify.tech/images/case-studies/vitalitech/laptop-3.webp',
