@@ -36,7 +36,7 @@ const CONFIG = {
           title: 'Forward Proxy Server',
           description:
           'A simple forward proxy server for securing HTTP requests. '+
-          'This is a personal project I\'ve developed to enhance my understanding in CLEAN architecture and REST API.' +
+          'This is a personal project I\'ve developed to enhance my understanding in CLEAN architecture and REST API. ' +
           'For more details, you can check out the repository by clicking here.',
           imageUrl:'https://aer-tech.org/laptop%20mockup.png',
           link: 'https://github.com/wowser20/go-rest-proxy',
@@ -44,7 +44,7 @@ const CONFIG = {
         {
           title: 'An AI-Powered Medical Software Platform Powered by RAG & LLM',
           description: 'Worked on creating the APIs for user onboarding and connected the platform with thirdparty LLM providers' +
-          'Due to NDA restrictions I could not disclose the actual name of the project.' +
+          'Due to NDA restrictions I could not disclose the actual name of the project. ' +
           'For more information about the project, you can check out the case study by clicking here.',
           imageUrl:'https://nuxify.tech/images/case-studies/ai-med/laptop-2.webp', 
           link: 'https://nuxify.tech/works/an-ai-powered-medical-software-platform-powered-by-rag-and-llm',
@@ -52,7 +52,7 @@ const CONFIG = {
         {
           title: 'Nuxie: An AI-Powered Chat Platform Using LLM & RAG Technology',
           description:
-            'Worked on creating the APIs for connecting the platform with thirdparty LLM providers.' +
+            'Worked on creating the APIs for connecting the platform with thirdparty LLM providers. ' +
             'For more information about the project, you can check out the case study by clicking here.',
           imageUrl:
             'https://nuxify.tech/images/case-studies/nuxie/laptop-5.webp',
@@ -62,7 +62,7 @@ const CONFIG = {
           title: 'Certifika: A Multi-Chain NFT-Based Certificate Based Event Certification Platform.',
           description:
             'Worked on creating the APIs and integrating the smartcontracts.' +
-            'For more information about the project, you can check out the case study by clicking here.',
+            'For more information about the project, you can check out the case study by clicking here. ',
           imageUrl:
             'https://nuxify.tech/images/case-studies/certifika/laptop-1.webp',
           link: 'https://nuxify.tech/works/certifika-a-multi-chain-nft-based-event-certification-platform',
@@ -71,7 +71,7 @@ const CONFIG = {
           title: 'Decentralized and Instant Voting Platform Powered By Ethereum',
           description:
             'Worked on drafting the database design, on implementing the APIs base on custom needs, and integrating the smartcontract. '+
-            'Due to NDA restrictions I could not disclose the actual name of the project.' +
+            'Due to NDA restrictions I could not disclose the actual name of the project. ' +
             'For more information about the project, you can check out the case study by clicking here.',
           imageUrl:
             'https://nuxify.tech/images/case-studies/decentralized-voting/laptop-2.webp',
@@ -81,7 +81,7 @@ const CONFIG = {
           title: 'A Multi-Chain Blockchain-Based Raffle Platform Using Chainlink',
           description:
             'Worked on developing the APIs and integrating the smartcontracts. '+
-            'Due to NDA restrictions I could not disclose the actual name of the project.'+
+            'Due to NDA restrictions I could not disclose the actual name of the project. '+
             'For more information about the project, you can check out the case study by clicking here.',
           imageUrl:
             'https://nuxify.tech/images/case-studies/blockchain-raffle/laptop-1.webp',
@@ -91,7 +91,7 @@ const CONFIG = {
           title: 'An Advanced ECG Analysis Platform Powered by AI',
           description:
             'Worked on developing the APIs for user onboarding and also for the onboarding questionnaires using Firebase. '+
-            'Due to NDA restrictions I could not disclose the actual name of the project.'+
+            'Due to NDA restrictions I could not disclose the actual name of the project. '+
             'For more information about the project, you can check out the case study by clicking here.',
           imageUrl:
             'https://nuxify.tech/images/case-studies/vitalitech/laptop-3.webp',
