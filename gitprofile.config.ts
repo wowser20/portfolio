@@ -112,12 +112,13 @@ const CONFIG = {
       'https://drive.google.com/file/d/1gALFhX86FzJQ-D3x7y5G3Kc0xBp4BDu9/view', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'Git',
-    'Docker',
     'Go',
     'MySQL',
-    'JavaScript',
+    'Git',
+    'Docker',
+    'HTML',
     'CSS',
+    'JavaScript',
     'Java',
   ],
   experiences: [
